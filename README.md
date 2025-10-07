@@ -10,7 +10,7 @@
 - 💻 Currently working on **Node.js + MySQL (RDBMS) projects**  
 - 🌱 Learning **Machine Learning** and **Fullstack Web Development**  
 - 🎯 Goal: To become an **AI-powered Systems Engineer / SDE**  
-- ⚡ Fun fact: I love making my code talk to hardware & intelligent systems  
+    
 
 ---
 
@@ -31,10 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
-#### 🧠 Currently Exploring
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,git,github,opencv" />
-</p>
 
 ---
 
@@ -50,8 +46,8 @@
 | 🔹 Project | 🧰 Tech Stack | 🌟 Highlights |
 |------------|---------------|---------------|
 | **AllStarTeam** | Node.js, Express, MySQL | Sports Team Management System with CRUD operations |
-| **Gesture-Controlled System** | Python, MediaPipe, OpenCV, RISC-V | Control devices with hand gestures |
-| **AutoDoc Studio (AI)** | Multi-Agent System, Flask | Autonomous Documentation Generator (AI SaaS idea) |
+| **Distance and Direction estimation system** | Python, C, ESP-IDF, HTML/CSS/JS | Finds lost devices direction and distance |
+
 
 > 🌱 *More projects coming soon...*  
 
@@ -60,8 +56,7 @@
 ### 🌎 Connect With Me
 <p align="left">
   <a href="mailto:varunesh2007.tmlzs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/varunesh07/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Varunesh07"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/Varunesh07/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
