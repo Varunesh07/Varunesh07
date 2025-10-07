@@ -1,16 +1,91 @@
-## Hi there 👋
+<!-- Profile README for Varunesh07 -->
 
-<!--
-**Varunesh07/Varunesh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Varunesh</h1>
+<h3 align="center">Software Developer | AI Enthusiast | Fullstack Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 💡 Passionate about **building real-world software & AI projects**  
+- 💻 Currently working on **Node.js + MySQL (RDBMS) projects**  
+- 🌱 Learning **Machine Learning** and **Fullstack Web Development**  
+- 🎯 Goal: To become an **AI-powered Systems Engineer / SDE**  
+- ⚡ Fun fact: I love making my code talk to hardware & intelligent systems  
+
+---
+
+### 🧩 Tech Stack
+
+#### 💬 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+#### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+#### 🧠 Currently Exploring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,git,github,opencv" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varunesh07&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh07&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🏗️ Featured Projects
+| 🔹 Project | 🧰 Tech Stack | 🌟 Highlights |
+|------------|---------------|---------------|
+| **AllStarTeam** | Node.js, Express, MySQL | Sports Team Management System with CRUD operations |
+| **Gesture-Controlled System** | Python, MediaPipe, OpenCV, RISC-V | Control devices with hand gestures |
+| **AutoDoc Studio (AI)** | Multi-Agent System, Flask | Autonomous Documentation Generator (AI SaaS idea) |
+
+> 🌱 *More projects coming soon...*  
+
+---
+
+### 🌎 Connect With Me
+<p align="left">
+  <a href="mailto:varunesh2007.tmlzs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/varunesh07/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Varunesh07"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+### 🧠 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varunesh07&theme=tokyonight" />
+</p>
+
+---
+
+### 🕒 Streak & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Varunesh07&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 💬 Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
+
+---
+
+<p align="center">
+  <b>⭐ Show some love by starring my repositories!</b>
+</p>
+
