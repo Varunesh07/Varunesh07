@@ -1,11 +1,10 @@
-<!-- Animated Profile README for Varunesh07 -->
 
-<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Varunesh;Software+Developer+💻;AI+Enthusiast+🧠;Fullstack+Learner+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2800&pause=800&color=00FFF6&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Varunesh;Software+Developer+💻;AI+Enthusiast+🧠;Fullstack+Learner+🚀" alt="Typing SVG" />
 </p>
 
----
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"></p>
 
 ### 🚀 About Me  
 - 💡 Passionate about **building real-world software & AI projects**  
@@ -19,25 +18,25 @@
 
 #### 💬 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark" />
 </p>
 
 #### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
 </p>
 
 #### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varunesh07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh07&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varunesh07&show_icons=true&theme=radical&hide_border=true&border_radius=20&title_color=00FFF6&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh07&layout=compact&theme=radical&hide_border=true&border_radius=20&title_color=00FFF6&text_color=FFFFFF&bg_color=0D1117" height="180" />
 </p>
 
 ---
@@ -54,34 +53,34 @@
 
 ### 🌎 Connect With Me
 <p align="center">
-  <a href="mailto:varunesh2007.tmlzs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/Varunesh07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:varunesh2007.tmlzs@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/Varunesh07/"><img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧠 Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varunesh07&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varunesh07&theme=radical" />
 </p>
 
 ---
 
 ### 🕒 Streak & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varunesh07&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Varunesh07&theme=radical&hide_border=true&border_radius=20&ring=00FFF6&fire=FF00E4&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 💬 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border=true" alt="Random Dev Quote"/>
 </p>
 
 ---
 
-<!-- Animated Wave Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:8B00FF&height=120&section=footer&text=⭐+Thanks+for+visiting!+⭐&fontColor=ffffff&fontSize=22&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,17,20,30&height=120&section=footer&text=⭐+Thanks+for+visiting+⭐&fontColor=ffffff&fontSize=22&animation=twinkling" />
 </p>
