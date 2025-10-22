@@ -8,7 +8,6 @@
 
 ### 🚀 About Me  
 - 💡 Passionate about **building real-world software & AI projects**  
-- 💻 Currently working on **Node.js + MySQL (RDBMS) projects**  
 - 🌱 Learning **Machine Learning** and **Fullstack Web Development**  
 - 🎯 Goal: To become an **AI-powered Systems Engineer / SDE**  
 
