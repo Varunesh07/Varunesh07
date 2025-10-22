@@ -63,12 +63,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varunesh07&theme=radical" />
 </p>
 
----
-
-### 🕒 Streak & Activity
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varunesh07&theme=radical&hide_border=true&border_radius=20&ring=00FFF6&fire=FF00E4&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</p>
 
 ---
 
