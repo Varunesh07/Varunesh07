@@ -48,7 +48,7 @@
 ###  Featured Projects
 |  Project |  Tech Stack | Highlights |
 |------------|---------------|---------------|
-| **AllStarTeam** | Node.js, Express, MySQL, HTML/CSS/JS | Sports Team Management System with CRUD operations |
+| **AllStarTeam** | Node.js, Express, MySQL, React, HTML/CSS/JS | Sports Team Management System with CRUD operations |
 | **Distance and Direction estimation system** | Python, C, ESP-IDF, HTML/CSS/JS | Finds lost devices direction and distance |
 | **EzyKart** | Python, PyQt5, MySQL, HTML/CSS/JS | E commerce app to purchase electronic devices |
 | **Choose better** | Python, Selenium, BeautifulSoup, Requests | A webscraper recommending top products based on rating and price by using DSA|
