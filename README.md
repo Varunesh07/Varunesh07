@@ -47,7 +47,6 @@
 | Project | Tech Stack | Highlights |
 |------------|---------------|---------------|
 | **LeaveFlow** | NestJS, TypeScript, PostgreSQL, Prisma, JWT, Swagger | Role-based leave request management system with hierarchical approval workflow (Employee → Manager → HR), document uploads, and JWT auth |
-| **nestjs-template** | NestJS, TypeScript, PostgreSQL, Prisma, Swagger | Production-ready NestJS starter template with JWT auth, role-based guards, Swagger, and global exception handling |
 | **AllStarTeam** | Node.js, Express, MySQL, React, HTML/CSS/JS | Sports Team Management System with CRUD operations |
 | **Distance and Direction estimation system** | Python, C, ESP-IDF, HTML/CSS/JS | Finds lost devices direction and distance |
 | **EzyKart** | Python, PyQt5, MySQL, HTML/CSS/JS | E commerce app to purchase electronic devices |
