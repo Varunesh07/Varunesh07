@@ -36,9 +36,11 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varunesh07&show_icons=true&theme=radical&hide_border=true&border_radius=20&title_color=00FFF6&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh07&layout=compact&theme=radical&hide_border=true&border_radius=20&title_color=00FFF6&text_color=FFFFFF&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varunesh07&show_icons=true&theme=radical&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varunesh07&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunesh07&layout=compact&theme=radical" height="180" />
 </p>
+
 
 ---
 
