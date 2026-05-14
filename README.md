@@ -5,7 +5,7 @@
 
 ### About Me  
 - Passionate about **building real-world software & AI projects**  
-- Learning **Machine Learning** and **Fullstack Web Development**  
+- Specializing in **AI Agents, Machine Learning, and Fullstack Web Development**  
 - Goal: To become an **AI-powered Systems Engineer / SDE**  
 
 ---
@@ -19,17 +19,17 @@
 
 #### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,postgres,prisma,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,postgres,prisma,supabase,mongodb&theme=dark" />
 </p>
 
 #### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
 </p>
 
-#### Tools
+#### Tools & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,swagger&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" />
 </p>
 
 ---
@@ -46,13 +46,12 @@
 
 | Project | Tech Stack | Highlights |
 |------------|---------------|---------------|
+| **MaathirAI** | FastAPI, LangChain, Groq AI, EasyOCR, React | Autonomous Medical Agent for Indian patients. Features brand-to-generic resolution, Drug-Drug Interaction (DDI) checking, and persistent medical memory. |
 | **LeaveFlow** | NestJS, TypeScript, PostgreSQL, Prisma, JWT, Swagger | Role-based leave request management system with hierarchical approval workflow (Employee → Manager → HR), document uploads, and JWT auth |
 | **AllStarTeam** | Node.js, Express, MySQL, React, HTML/CSS/JS | Sports Team Management System with CRUD operations |
 | **Distance and Direction estimation system** | Python, C, ESP-IDF, HTML/CSS/JS | Finds lost devices direction and distance |
-| **EzyKart** | Python, PyQt5, MySQL, HTML/CSS/JS | E commerce app to purchase electronic devices |
-| **Choose better** | Python, Selenium, BeautifulSoup, Requests | A webscraper recommending top products based on rating and price by using DSA |
-
-> *More projects coming soon...*  
+| **EzyKart** | Python, PyQt5, MySQL, HTML/CSS/JS | E-commerce app to purchase electronic devices |
+| **Choose Better** | Python, Selenium, BeautifulSoup, Requests | A webscraper recommending top products based on rating and price by using DSA |
 
 ---
 
