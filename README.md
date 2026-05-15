@@ -48,7 +48,7 @@
 
 | Project | Tech Stack | Highlights |
 |------------|---------------|---------------|
-| **MaathirAI** | FastAPI, LangChain, Groq AI, EasyOCR, React | Autonomous Medical Agent for Indian patients. Features brand-to-generic resolution, Drug-Drug Interaction (DDI) checking, and persistent medical memory. |
+| **MaathirAI** | FastAPI, LangChain, Groq AI, RAG, EasyOCR, React, ChromaDB | Autonomous Medical Agent for Indian patients. Features brand-to-generic resolution, Drug-Drug Interaction (DDI) checking, and persistent medical memory. |
 | **LeaveFlow** | NestJS, TypeScript, PostgreSQL, Prisma, JWT, Swagger | Role-based leave request management system with hierarchical approval workflow (Employee → Manager → HR), document uploads, and JWT auth |
 | **AllStarTeam** | Node.js, Express, MySQL, React, HTML/CSS/JS | Sports Team Management System with CRUD operations |
 | **Distance and Direction estimation system** | Python, C, ESP-IDF, HTML/CSS/JS | Finds lost devices direction and distance |
